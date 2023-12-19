@@ -1,9 +1,9 @@
 # Data Science Roadmap
-## What Is Data Science
+## What Is Data Science?
 
-- [what is data science? -ibm.com](https://www.ibm.com/topics/data-science)
-- [what is data science? -aws.amazon.com](https://aws.amazon.com/what-is/data-science/)
-- [what is data science? -simplilearn.com](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
+- [What is Data Science? -ibm.com](https://www.ibm.com/topics/data-science)
+- [What is Data Science? -aws.amazon.com](https://aws.amazon.com/what-is/data-science/)
+- [What is Data Science? -simplilearn.com](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
   
 ## Programming Languages
 ###  R - good tool for visualization and statistical analysis
@@ -104,7 +104,7 @@
 - [ML full playlist -Youtube(Kimia Lab)](https://youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT)
 - [ML documentation GFG(GeeksForGeeks)](https://www.geeksforgeeks.org/machine-learning/)
 - [ML intro to machine learning course -Udacity(udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [ML with pythonn -Coursera(IBM)](https://www.coursera.org/learn/machine-learning-with-python)
+- [ML with Pythonn -Coursera(IBM)](https://www.coursera.org/learn/machine-learning-with-python)
   
 ## Power BI
 
@@ -141,4 +141,3 @@
 - [Machine Learning Projects](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 - [End To End ML Project With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
 - [Real-World Python Machine Learning Tutorial w/ Scikit Learn](https://youtu.be/M9Itm95JzL0)
-
