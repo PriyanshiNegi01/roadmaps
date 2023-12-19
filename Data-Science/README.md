@@ -1,4 +1,7 @@
 # Data Science Roadmap
+
+![image](https://github.com/PriyanshiNegi01/roadmaps/assets/121029180/f15389ac-f4fb-4ffd-af36-e88788b02470)
+
 ## What Is Data Science?
 
 - [What is Data Science? -ibm.com](https://www.ibm.com/topics/data-science)
